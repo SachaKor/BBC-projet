@@ -1,0 +1,4 @@
+ID:::GB_ACC:::Texte
+$$$
+1007_s_at:::U48705::Hello word!! How are you
+$$$

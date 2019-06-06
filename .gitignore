@@ -43,3 +43,8 @@ package-lock.json
 geckodriver.log
 
 /data
+
+GSE21510_family.soft
+
+*.dev
+
